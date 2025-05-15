@@ -1,5 +1,5 @@
-Food Quality Analyzer
-Show Image
+##Food Quality Analyzer
+
 🍎 Overview
 Food Quality Analyzer is an AI-powered web application that helps users make healthier food choices by analyzing food labels. By leveraging OCR technology and Large Language Models, the application extracts ingredient information from uploaded food label images and provides personalized dietary recommendations.
 
