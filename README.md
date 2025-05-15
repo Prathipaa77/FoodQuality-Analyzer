@@ -1,20 +1,21 @@
-##Food Quality Analyzer
+## Food Quality Analyzer
 
-🍎 Overview
+### 🍎 Overview
+
 Food Quality Analyzer is an AI-powered web application that helps users make healthier food choices by analyzing food labels. By leveraging OCR technology and Large Language Models, the application extracts ingredient information from uploaded food label images and provides personalized dietary recommendations.
 
 ![Web UI](images/landing-page.png)
 ![Web UI](images/landing-page2.png)
 ![Web UI](images/landing-page3.png)
 
-✨ Features
+### ✨ Features
 
 • Ingredient Analysis: Extract and analyze ingredients from food label images
 • Allergy Detection: Identify potential allergens based on personal health profiles
 • Personalized Recommendations: Get custom advice based on dietary restrictions
 • Interactive Q&A: Ask specific questions about products and receive AI-powered responses
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 • Frontend: HTML, CSS, JavaScript
 • Backend: Python with Gradio
@@ -23,7 +24,7 @@ Food Quality Analyzer is an AI-powered web application that helps users make hea
 • ChatGroq: For generating personalized health recommendations.
 • Deployment: Web interface with integrated Gradio application
 
-📊 Problem & Solution
+### 📊 Problem & Solution
 The Problem
 Many consumers struggle to make informed decisions about food products due to:
 
@@ -40,19 +41,19 @@ Food Quality Analyzer bridges this knowledge gap by:
 3. Highlighting potentially harmful ingredients and suitable alternatives
 4. Making nutritional information accessible and actionable
 
-🚀 Getting Started
+### 🚀 Getting Started
 Prerequisites
 
 • Python 3.8+
 • Tesseract OCR installed
 • Groq API key
 
-📸 Screenshots
+### 📸 Screenshots
 
 ![Web UI](images/analysis-results.png)
 ![Web UI](images/user-recommendations.png)
 
-🌟 Benefits
+### 🌟 Benefits
 
 • Health Awareness: Better understanding of what's in your food
 • Time Saving: Quick analysis instead of manual research
@@ -60,7 +61,7 @@ Prerequisites
 • Educational: Learn about ingredients and their potential health impacts
 • Accessibility: Make informed choices without needing specialized knowledge
 
-📂 Repository Structure
+### 📂 Repository Structure
 
 food-quality-analyzer/
 ├── app.py               # Gradio application entry point
@@ -72,7 +73,7 @@ food-quality-analyzer/
 ├── .gitignore           # Git ignore file
 └── README.md            # Project documentation
 
-📝 License
+### 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 <p align="center">
