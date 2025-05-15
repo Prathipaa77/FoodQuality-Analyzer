@@ -1,0 +1,5 @@
+gradio==4.44.0
+pillow==10.4.0
+pytesseract==0.3.13
+langchain-groq==0.2.0
+python-dotenv==1.0.1
