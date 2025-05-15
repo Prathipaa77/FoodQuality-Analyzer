@@ -26,6 +26,7 @@ Food Quality Analyzer is an AI-powered web application that helps users make hea
 
 ### 📊 Problem & Solution
 The Problem
+
 Many consumers struggle to make informed decisions about food products due to:
 
 - Complex ingredient lists that are difficult to understand
@@ -34,6 +35,7 @@ Many consumers struggle to make informed decisions about food products due to:
 - Time constraints when shopping that limit research opportunities
 
 Our Solution
+
 Food Quality Analyzer bridges this knowledge gap by:
 
 1. Instantly analyzing food labels with advanced AI technology
